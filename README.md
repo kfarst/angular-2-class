@@ -10,7 +10,7 @@ Syllabus
     * Switching to component based applications
     * *Lab 1 - Building a component based application*
 
-* Week 2
+* Week 2 - [slides](https://docs.google.com/presentation/d/1iOrBoONduH3ixVxKa_4sve26djrFE4ucHroSpfmGLdA/edit?usp=sharing)
   * **Upgrading to Angular 2**
     * Exploring Angular’s official upgrade path, ngUpgrade
     * A brief look at the community-created ngForward upgrade path
