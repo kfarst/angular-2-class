@@ -17,13 +17,14 @@ Syllabus
     * Pulling the plug on Angular 1
     * *Lab 2 - Upgrading an Angular 1 application to Angular 2*
 
-* Week 3
-  * **Dependency injection/content projection**
+* Week 3 - [slides](https://docs.google.com/presentation/d/1bFHyYH7og6HldsVYLY-y3_Jj5L4HpAfexASUJTudEaM/edit?usp=sharing)
+  * **Dependency injection/content projection/RxJS**
     * Learning Angular 2’s dependency injection strategy
     * Dependency resolution with generated metadata
     * Basic content projection in Angular 2
     * Using ViewChildren and ContentChildren
-    * *Lab 3 - Structuring robust content projection in Angular 2*
+    * Cold observables, hot observables, EventEmitter, and RxJS
+    * *Lab 3 - Adding functionality to the Todo app created in class*
 
 * Week 4
   * **Using Angular 2 forms**

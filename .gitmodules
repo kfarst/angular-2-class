@@ -4,3 +4,6 @@
 [submodule "week2"]
 	path = angular-2-class-week2
 	url = git@github.com:kfarst/angular-2-class-week2.git
+[submodule "week3"]
+	path = angular-2-class-week3
+	url = git@github.com:kfarst/angular-2-class-week3.git
