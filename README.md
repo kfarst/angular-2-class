@@ -26,9 +26,9 @@ Syllabus
     * Cold observables, hot observables, EventEmitter, and RxJS
     * *Lab 3 - Adding functionality to the Todo app created in class*
 
-* Week 4
+* Week 4 - [slides](https://docs.google.com/presentation/d/17rQrG9bL-lkAzIpCFZ-N62ShS0v_qebUQlTq9yItUqo/edit?usp=sharing)
   * **Using Angular 2 forms**
-    * Developing template driven forms
+    * Developing template-driven/model-driven forms
     * Using the built in form validations
     * Defining custom form validations
     * *Lab 4 - Building forms in Angular 2*
